@@ -20,7 +20,7 @@ const Greetings = () => {
     document.documentElement.scrollTop = 0;
     document.scrollingElement.scrollTop = 0;
   })
-  return ( 
+  return (
     <Fade top duration={1000} distance="40px">
         <main ref="main">
           <div className="position-relative">
@@ -46,7 +46,8 @@ const Greetings = () => {
                       <p className="lead text-white">{greetings.description}</p>
                       <SocialLinks />
                       <div className="btn-wrapper my-4">
-                        <Button
+
+                        <Button download
                           className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                           color="default"
                           href={greetings.resumeLink}
@@ -89,5 +90,5 @@ const Greetings = () => {
         </Fade>
    );
 }
- 
+
 export default Greetings;

@@ -9,7 +9,7 @@ import {
 
 const Edution = () => {
     return (
-        <section style={{height: "40rem"}} className="section pb-0 bg-gradient-info my-5">
+        <section className="educStyle section pb-0 bg-gradient-info my-5">
             <Container>
                 <div className="d-flex px-3">
                     <div>

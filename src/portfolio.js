@@ -8,11 +8,11 @@ export const greetings = {
     "name": "Oussama Qaiboub",
     "title": "Hi all, I'm Oussama Qaiboub",
     "description": "I'm a Full-stack Developer who has held and accomplished several full-time positions and freelance missions as a Web/Mobile application developer , Starting from a small web agency in 2018, My tasks were designing and developing Websites from scratch using PHP and MySQL & HTML, CSS, BootStrap, JS, jquery and of course the required/requested technologies such as JEE, Spring Boot/MVC, Angular, TypeScript ..., Not only that but also developing Mobile Applications using Android Studio and Java",
-    "resumeLink": "assets/img/icons/common/google.svg"
+    "resumeLink": "resume.pdf"
 }
 
 export const openSource = {
-    githubUserName: '1hanzla100',
+    githubUserName: 'oussama-qaiboub',
 };
 
 export const contact = {}
@@ -20,7 +20,7 @@ export const contact = {}
 export const socialLinks = {
     "facebook": "https://www.facebook.com/oussa2013",
     "instagram": "https://www.instagram.com/oussama_qaiboub",
-    /*    "twitter": "https://twitter.com/1hanzla100",*/
+    /*    "twitter": "https://twitter.com/oussama-qaiboub",*/
     "github": "https://github.com/oussama-qaiboub",
     "linkedin": "https://www.linkedin.com/in/oussama-qaiboub/"
 }
@@ -181,7 +181,7 @@ export const SkillBars = [
     },
     {
         Stack: 'DevOps',
-        progressPercentage: '50',
+        progressPercentage: '60',
     },
 ]
 
